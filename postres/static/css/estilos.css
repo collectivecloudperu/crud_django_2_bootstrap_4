@@ -1,0 +1,17 @@
+.txt_negrita {
+	font-weight: bold!important;
+}
+
+/* 
+body > main > div > div.row.mb-5 > div.card.col-md-2.bg_F5F5F5, body > main > div > div.row.mb-5 > div.card.col-md-2.bg_F5F5F5 > ul > li {
+	background-color: #F5F5F5!important;
+}
+*/ 
+
+body > main > div > div.row.mb-5 > div.col-md-10 > div > div > form > div:nth-child(5) > a {
+	display: none!important;
+}
+
+.ocultar {
+	display: none!important;
+}
